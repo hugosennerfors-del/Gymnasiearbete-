@@ -20,8 +20,16 @@ blåbärsskörden variera mellan 92 och 312 miljoner kilo, varav en mindre del
 plockas för att ätas (Boulanger-Lapointe m.fl., 2017). Bärplockning hör dessutom
 ihop med friluftsliv och allemansrätt på ett sätt som få andra växter gör.
 
-Det som gör blåbärsriset extra intressant i ett klimatperspektiv är var det
-växer. Arten trivs i skuggan under trädkronorna, där det är svalare och fuktigare
+Att arten kan fara illa av ett tuffare klimat är inte bara ett antagande. I en
+svensk studie undersöktes blåbärsris i södra Sverige efter flera år med torra
+vårar och somrar. Av drygt 26 000 undersökta skott var 21 procent antingen döda
+eller hade mer än halva biomassan död (Hedwall & Strengbom, 2026). Torka och
+värme är visserligen två olika saker, men de hänger ofta ihop under en
+värmebölja. Studien visar i alla fall att blåbärsriset på sina håll redan är
+hårt ansatt.
+
+Det som gör arten extra intressant i ett klimatperspektiv är var den växer.
+Blåbärsris trivs i skuggan under trädkronorna, där det är svalare och fuktigare
 än ute i det öppna. En växt som är anpassad till sådana förhållanden har troligen
 ett lägre temperaturoptimum än växter från varmare och öppnare miljöer. Den har
 alltså mindre marginal innan värmen börjar bli ett problem. Blir somrarna
@@ -33,6 +41,11 @@ den sortens förändring som klimatmodellerna beskriver. En värmebölja fungera
 annorlunda. Då ligger temperaturen högt under en kort tid och sjunker sedan igen.
 Det är inte självklart att en växt reagerar på samma sätt i de två fallen, och
 kortvarig men kraftig värme är betydligt mindre undersökt.
+
+Till det kommer att mycket av det man vet om värme och växter kommer från
+jordbruket. Grödor är noga undersökta, eftersom skördarna har direkt ekonomisk
+betydelse. Vilda arter ute i skogen har fått mindre uppmärksamhet, trots att de
+utgör själva grunden i sina ekosystem.
 
 Frågan har betydelse utanför själva plantan. Om blåbärsriset växer sämre eller
 tar skada under varma somrar påverkar det också de djur som lever av det, och på
